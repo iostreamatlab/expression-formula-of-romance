@@ -3,6 +3,8 @@ Expression formula of romance,521.1314 mean "I love you for life"
 
 
 # 浪漫的表白公式
+# ロマンチックな告白公式
+# Романтический доказывать формула
 # expression formula of romance
 
 one = proc {|a| a+52.8}
@@ -12,6 +14,9 @@ four =proc{|a| a*2}
 five =proc{|a| (a*10)}
 
 # 和Haskell很相似的写法
+# И Haskell похож на написание слова
+# haskellに似ているとの书き方
+
 # just for chinese syntax.
 # 521.1314 mean "I love you for life"
 
