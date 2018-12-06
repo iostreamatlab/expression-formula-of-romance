@@ -42,7 +42,7 @@ p @fido= Monster.new("Spring")
 
 
 
-#math_calculator+unicode_math
+# math_calculator+unicode_math
 
 require 'math_calculator'
 require 'unicode_math'
@@ -67,7 +67,8 @@ p @fido.pro
 
 
 
-#puts
+# puts
+
 7367
 16170000000000.0
 16170000007367.0
