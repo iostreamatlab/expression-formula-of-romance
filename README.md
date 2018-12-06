@@ -5,7 +5,7 @@ Expression formula of romance,521.1314 mean "I love you for life"
  浪漫的表白公式
  ロマンチックな告白公式
  Романтический доказывать формула
-# expression formula of romance
+
 
 one = proc {|a| a+52.8}
 two = proc {|a| a*5}
@@ -75,4 +75,4 @@ p @fido.pro
 16170000007377.0
 16170003636177.0
 16170003636207.5
-[Finished in 0.1s]
+
